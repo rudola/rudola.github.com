@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://rudola.github.io/atom.xml" rel="self"/>
   <link href="http://rudola.github.io/"/>
-  <updated>2013-06-19T18:52:38+05:30</updated>
+  <updated>2013-06-19T19:22:38+05:30</updated>
   <id>http://rudola.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[MUSIC]]></title>
+    <link href="http://rudola.github.io/blog/2013/06/19/title/"/>
+    <updated>2013-06-19T19:16:00+05:30</updated>
+    <id>http://rudola.github.io/blog/2013/06/19/title</id>
+    <content type="html"><![CDATA[<p>Music is an art form whose medium is sound and silence. Its common elements are pitch (which governs melody and harmony), rhythm (and its associated concepts tempo, meter, and articulation), dynamics, and the sonic qualities of timbre and texture. The word derives from Greek μουσική (mousike; &ldquo;art of the Muses&rdquo;).</p>
+
+<p>The creation, performance, significance, and even the definition of music vary according to culture and social context. Music ranges from strictly organized compositions (and their recreation in performance), through improvisational music to aleatoric forms. Music can be divided into genres and subgenres, although the dividing lines and relationships between music genres are often subtle, sometimes open to individual interpretation, and occasionally controversial. Within the arts, music may be classified as a performing art, a fine art, and auditory art. It may also be divided among art music and folk music. There is also a strong connection between music and mathematics.Music may be played and heard live, may be part of a dramatic work or film, or may be recorded.</p>
+
+<p>To many people in many cultures, music is an important part of their way of life. Ancient Greek and Indian philosophers defined music as tones ordered horizontally as melodies and vertically as harmonies. Common sayings such as &ldquo;the harmony of the spheres&rdquo; and &ldquo;it is music to my ears&rdquo; point to the notion that music is often ordered and pleasant to listen to. However, 20th-century composer John Cage thought that any sound can be music, saying, for example, &ldquo;There is no noise, only sound.&rdquo; Musicologist Jean-Jacques Nattiez summarizes the relativist, post-modern viewpoint: &ldquo;The border between music and noise is always culturally defined—which implies that, even within a single society, this border does not always pass through the same place; in short, there is rarely a consensus &hellip; By all accounts there is no single and intercultural universal concept defining what music might be.&rdquo;</p>
+
+<p><img src="http://www.dreamstime.com/glowing-music-notes-thumb10408909.jpg"></p>
+]]></content>
+  </entry>
   
 </feed>
